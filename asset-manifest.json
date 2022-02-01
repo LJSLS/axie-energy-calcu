@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ceb2cf2.css",
+    "main.js": "/static/js/main.a1a0ff91.js",
+    "static/media/Website-LandScene2.png": "/static/media/Website-LandScene2.92d5d6754cbe654a8f79.png",
+    "index.html": "/index.html",
+    "main.1ceb2cf2.css.map": "/static/css/main.1ceb2cf2.css.map",
+    "main.a1a0ff91.js.map": "/static/js/main.a1a0ff91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ceb2cf2.css",
+    "static/js/main.a1a0ff91.js"
+  ]
+}
