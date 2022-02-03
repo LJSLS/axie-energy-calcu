@@ -5,7 +5,9 @@ html,body {
     font-family: "Lucida Console", "Courier New", monospace;
     font-weight: bold;
  }
-
+ h1{
+    margin-top: 80px;
+ }
  
  .demo-wrap:before{
     content: ' ';
@@ -59,6 +61,7 @@ html,body {
     height: 60px;
     width: 60px;
     color: white;
+    border-radius: 10px;
  }
  .minusbutton{
      background:red;
@@ -69,11 +72,17 @@ html,body {
     width: 400px;
     background: rgb(224, 200, 59);
     color: black;
+    border-radius: 10px;
  }
  
  .Reset{
     word-wrap: break-word;
-    width: 200px;
+    width: 195px;
     background: orange;
     color: black;
+    border-radius: 10px;
  }
+ 
+
+
+ 
