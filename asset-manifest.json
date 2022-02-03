@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/axie-energy-calcu/static/css/main.a26e3476.css",
-    "main.js": "/axie-energy-calcu/static/js/main.a1a0ff91.js",
+    "main.css": "/axie-energy-calcu/static/css/main.2c786ad7.css",
+    "main.js": "/axie-energy-calcu/static/js/main.ef0a62a6.js",
     "static/media/Website-LandScene2.png": "/axie-energy-calcu/static/media/Website-LandScene2.92d5d6754cbe654a8f79.png",
     "index.html": "/axie-energy-calcu/index.html",
-    "main.a26e3476.css.map": "/axie-energy-calcu/static/css/main.a26e3476.css.map",
-    "main.a1a0ff91.js.map": "/axie-energy-calcu/static/js/main.a1a0ff91.js.map"
+    "main.2c786ad7.css.map": "/axie-energy-calcu/static/css/main.2c786ad7.css.map",
+    "main.ef0a62a6.js.map": "/axie-energy-calcu/static/js/main.ef0a62a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a26e3476.css",
-    "static/js/main.a1a0ff91.js"
+    "static/css/main.2c786ad7.css",
+    "static/js/main.ef0a62a6.js"
   ]
 }
